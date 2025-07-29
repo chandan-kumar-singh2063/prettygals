@@ -1,0 +1,12 @@
+{
+  "/api/products/route": "app/api/products/route.js",
+  "/api/cart-simple/route": "app/api/cart-simple/route.js",
+  "/api/payment/verify/route": "app/api/payment/verify/route.js",
+  "/api/payment/route": "app/api/payment/route.js",
+  "/page": "app/page.js",
+  "/products/page": "app/products/page.js",
+  "/checkout/page": "app/checkout/page.js",
+  "/payment/success/page": "app/payment/success/page.js",
+  "/products/lips/page": "app/products/lips/page.js",
+  "/cart/page": "app/cart/page.js"
+}
